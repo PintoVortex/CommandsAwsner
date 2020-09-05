@@ -1,0 +1,24 @@
+"Phrases"
+{
+  "Group"
+  {
+   "pt" "{default}[ {green}PINTO {default}] Entra no nosso {darkblue}grupo: {default}https://steamcommunity.com/groups/"
+   "en" "{default}[ {green}PINTO {default}] Join our {darkblue}group: {default}https://steamcommunity.com/groups/"
+   "fr" "{default}[ {green}PINTO {default}] Rejoignez notre {darkblue}groupe: {default}https://steamcommunity.com/groups/"
+   "es" "{default}[ {green}PINTO {default}] Unirse a nuestro {darkblue}grupo: {default}https://steamcommunity.com/groups/"
+  }
+  "Discord"
+  {
+   "pt" "{default}[ {green}PINTO {default}] Entra no nosso {darkblue}discord: {default}https://discord.gg/"
+   "en" "{default}[ {green}PINTO {default}] Join our {darkblue}discord: {default}https://discord.gg/"
+   "fr" "{default}[ {green}PINTO {default}] Rejoignez notre {darkblue}discord: {default}https://discord.gg/"
+   "es" "{default}[ {green}PINTO {default}] Unirse a nuestro {darkblue}discord: {default}https://discord.gg/"
+  }
+  "Founder"
+  {
+   "pt" "{default}[ {green}PINTO {default}] A Steam do nosso {darkred}fundador: {default}https://steamcommunity.com/id/"
+   "en" "{default}[ {green}PINTO {default}] The Steam of our {darkred}founder: {default}https://steamcommunity.com/id/"
+   "fr" "{default}[ {green}PINTO {default}] Steam de notre {darkred}fondateur: {default}https://steamcommunity.com/id/"
+   "es" "{default}[ {green}PINTO {default}] El Steam de nuestro {darkblue}fundador: {default}https://steamcommunity.com/id/"
+  }
+}
